@@ -11,7 +11,7 @@ I use this space to document my learning journey and demonstrate my ability to w
 
 ## Skills
 - SQL, Python (Pandas, NumPy)
-- Data Visualization (Matplotlib, Seaborn, Tableau)
+- Data Visualization (Matplotlib, Seaborn, Tableau, Power BI)
 - Excel (Pivot Tables, VLOOKUP)
 - Statistics & Data Cleaning
 - Communication & Presentation
